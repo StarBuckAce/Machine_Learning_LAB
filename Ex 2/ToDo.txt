@@ -1,0 +1,25 @@
+Choose a regression dataset
+Task:-
+select regression
+numerical dataset
+
+make a pairplot(gives linear relation between all columns)
+
+Find features which has more relation with the target column
+
+Implement Least square method
+
+Draw the regression line
+
+Train and Test the data
+
+make a separate plot with the test sample
+
+Find the MSE for the regression
+
+and finally use the library function of linear regression and compare it with manually plotted line
+
+Use relevant metrics like MAE,MSE,R2 values
+
+
+
